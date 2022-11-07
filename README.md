@@ -16,5 +16,9 @@ Also you install adb driver on your system to detect your connected Android devi
 # Password
 This tool having a password for installing the tool<br/>
 Password - text us on @fusioncode_technologies (Instagram)
+# Instructions
+If the tool is not working on your side, try to download full resorce on<br/>
+https://drive.google.com/file/d/1FDpPDDVABveMKCOItqt4wx7-OFmasatv/view?usp=share_link<br/>
+<br/>RAR password: 12345
 # Contact Us
-Website- shorturl.at/fhS26
+Website- https://shorturl.at/fhS26
