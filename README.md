@@ -1,5 +1,5 @@
 # Mediatech-Universal-Tool developed by Fusioncode Technologies
-If you forgot PIN and Password of Any Android device, this tool help to recover your PIN & Passwords of your Mediatech Android devices.
+If you forgot PIN and Password of Any Mediatech Android device, this tool helps to recover your PIN & Passwords.
 # Features,
 1- Safe Formatting/ Factory reset<br/>
 2- PIN & Password Bruteforce<br/>
