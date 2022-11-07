@@ -12,7 +12,7 @@ If you forgot PIN and Password of Any Mediatech Android device, this tool helps 
 # Usage
 You need to download this tool and install on any Windows platform<br/>
 Supported OS- Windows7, Windows8, Windows10, Windows11, Windows12<br/>
-Also you install adb driver on your system to detect your connected Android devices with a specific port.
+Also you need to install adb driver on your system to detect your connected Android devices with a specific port.
 # Password
 This tool having a password for installing the tool<br/>
 Password - text us on @fusioncode_technologies (Instagram)
